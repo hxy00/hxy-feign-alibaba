@@ -10,9 +10,6 @@
 
     <artifactId>customer-client</artifactId>
     <version>1.0.0</version>
-    <name>customer-client</name>
-    <description>customer-client</description>
-    <packaging>jar</packaging>
 
     <dependencies>
         <dependency>

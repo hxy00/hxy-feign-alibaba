@@ -10,8 +10,6 @@
 
     <artifactId>customer-server</artifactId>
     <version>1.0.0</version>
-    <name>customer-server</name>
-    <description>customer-server</description>
     <packaging>pom</packaging>
 
     <modules>
