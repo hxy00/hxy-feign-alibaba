@@ -5,13 +5,12 @@
 
     <parent>
         <groupId>com.hxy</groupId>
-        <artifactId>hxy-feign-alibaba</artifactId>
-        <version>1.0-SNAPSHOT</version>
-        <relativePath>../../pom.xml</relativePath>
+        <artifactId>customer-server</artifactId>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>customer-service</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <name>customer-service</name>
     <description>customer-service</description>
     <packaging>jar</packaging>
@@ -21,6 +20,11 @@
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>com.hxy</groupId>
+            <artifactId>customer-client</artifactId>
+            <version>1.0.0</version>
+        </dependency>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>

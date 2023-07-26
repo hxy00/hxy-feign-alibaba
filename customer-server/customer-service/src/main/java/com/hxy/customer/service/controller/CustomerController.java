@@ -1,6 +1,6 @@
 package com.hxy.customer.service.controller;
 
-import com.hxy.customer.service.entity.OrderInfo;
+import com.hxy.customer.entity.OrderInfo;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -4,13 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.hxy</groupId>
-        <artifactId>hxy-feign-alibaba</artifactId>
-        <version>1.0-SNAPSHOT</version>
-        <relativePath>../../pom.xml</relativePath>
+        <artifactId>customer-server</artifactId>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>customer-client</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>customer-client</name>
     <description>customer-client</description>
     <packaging>jar</packaging>
